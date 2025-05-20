@@ -1,0 +1,7 @@
+InsertionSort: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Comparações: 190 Tempo gasto: 0.000 ms
+SelectionSort: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Comparações: 190 Tempo gasto: 0.000 ms
+BubbleSort: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Comparações: 190 Tempo gasto: 0.000 ms
+MergeSort: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Comparações: 48 Tempo gasto: 0.000 ms
+QuickSort: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Comparações: 190 Tempo gasto: 0.000 ms
+HeapSort: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Comparações: 105 Tempo gasto: 0.000 ms
+ShellSort: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Comparações: 80 Tempo gasto: 0.000 ms
